@@ -1,4 +1,4 @@
-pipeline {
+ from pipeline {
     
     agent {
         label "linuxbuildnode"
